@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Joan Moreno 👋
 
-<!--
-**joanmoreno25/joanmoreno25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ **Bienvenido a mi perfil de GitHub** ✨
 
-Here are some ideas to get you started:
+Soy estudiante de **Comunicación Interactiva** en la **Universidad Autónoma de Barcelona**, apasionado por la tecnología. Además, soy **Administrador de Sistemas Informáticos en Red** desde 2021, con experiencia en soporte técnico para grandes compañías del sector de las telecomunicaciones y prácticas como **Desarrollador Web**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 **Sobre mí**
+
+- 💻 Experiencia en gestión de incidencias, uso de herramientas de ticketing y CRMs.
+- 🚀 Focalizado en el diseño, creación e implementación de sitios web.
+- 📚 Compromiso con el aprendizaje continuo y la adaptación tecnológica.
+
+---
+
+### 🛠️ **Habilidades**
+
+- Diseño y desarrollo web.
+- Administración de sistemas y redes.
+- Resolución de problemas técnicos.
+- Trabajo en equipo.
+
+---
+
+Gracias por visitar mi perfil. Estoy abierto a colaborar en proyectos interesantes. 🌟
