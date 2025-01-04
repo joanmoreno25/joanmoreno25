@@ -2,7 +2,7 @@
 
 ✨ **Bienvenido a mi perfil de GitHub** ✨
 
-Soy estudiante de **Comunicación Interactiva** en la **Universidad Autónoma de Barcelona**, apasionado por la tecnología. Además, soy **Administrador de Sistemas Informáticos en Red** desde 2021, con experiencia trabajando como soporte técnico para grandes compañías del sector de las telecomunicaciones y prácticas como **Desarrollador Web**.
+Soy un estudiante de **Comunicación Interactiva** en la **Universidad Autónoma de Barcelona**, apasionado por la tecnología. Además, soy **Administrador de Sistemas Informáticos en Red** desde 2021, con experiencia trabajando como soporte técnico para grandes compañías del sector de las telecomunicaciones y prácticas como **Desarrollador Web**.
 
 ---
 
